@@ -1,0 +1,20 @@
+{
+  "name": "飞洋海洋运输管理系统",
+  "short_name": "飞洋OTMS",
+  "description": "飞洋海洋运输管理系统手机端：船期、订舱、箱货、账单随身管",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0e7490",
+  "background_color": "#083344",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
